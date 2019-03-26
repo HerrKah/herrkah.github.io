@@ -1794,7 +1794,7 @@ body {
 }
 .cid-rlodfcKTpT {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-rloeaPlVLJ {
@@ -3141,6 +3141,9 @@ body {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-rluzzT2dkP .mbr-text UL {
+  color: #232323;
 }
 .cid-rls66DpXJd .navbar {
   background: #ffffff;
