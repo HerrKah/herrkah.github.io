@@ -1,0 +1,25 @@
+User-agent: *
+Sitemap: http://cwg-carworks.de/sitemap.xml
+Disallow: /cgi-bin
+Disallow: /animatecss
+Disallow: /bootstrap
+Disallow: /bootstrapcarouselswipe
+Disallow: /dropdown
+Disallow: /gallery
+Disallow: /imagesloaded
+Disallow: /masonry
+Disallow: /mobirise/css
+Disallow: /parallax
+Disallow: /popper
+Disallow: /slidervideo
+Disallow: /smoothscroll
+Disallow: /socicon
+Disallow: /tether
+Disallow: /theme
+Disallow: /touchswipe
+Disallow: /viewportchecker
+Disallow: /vimeoplayer
+Disallow: /web/assets
+
+
+
